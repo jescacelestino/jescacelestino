@@ -38,5 +38,6 @@
              <a href = 'https://www.twitch.tv/eu_jesca'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg"/></a> 
             <a href = 'https://www.twitter.com/jecelestino'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
             <a href = 'https://www.github.com/jescacelestino'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-            <a href= https://open.spotify.com/user/poxajeps?si=60cb17926b694604= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
+            <a href = 'https://open.spotify.com/user/poxajeps?si=8f3ec5ca9f1d4abf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg"/></a> 
+
 </div>
