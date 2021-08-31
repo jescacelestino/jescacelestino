@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Personal and university projects
 
-- 🌱 I’m currently learning Java, its Frameworks and Unity. 
+- 🌱 I’m currently learning Java and Unity. 
 
 - 👯 I’m looking to collaborate on University projects 
 
