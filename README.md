@@ -5,9 +5,6 @@
 
 <h2> About Me 💥
 
-<img width="55%" align="right" alt="Github" src="" />
-
-
 - 🔭 I’m currently working on Personal and university projects
 
 - 🌱 I’m currently learning Java and Unity. 
