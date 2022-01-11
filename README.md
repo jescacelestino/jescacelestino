@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on Personal and university projects
 
-- 🌱 I’m currently learning Java and Unity. 
+- 🌱 I’m currently learning Java, Kotlin and Kafka. 
 
 - 👯 I’m looking to collaborate on University projects 
 
-- 💬 Talk to me about Java, Python, Unity, Games and travels 🚀🌴 
+- 💬 Talk to me about music, games and travels 🚀🌴 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
